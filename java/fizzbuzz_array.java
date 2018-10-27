@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class FizzBuzz {
+public class FizzBuzzArray {
 
      public static void main(String []args) {
         ArrayList<Object> output = new ArrayList<Object>();

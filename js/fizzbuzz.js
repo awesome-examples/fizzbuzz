@@ -1,20 +1,13 @@
-// FizzBuzz JavaScript (JS)
+// We define an arrray that will hold all the values
+let output = [];
 
-for (i = 1; i <= 100; i++) {
-  // Create an empty string
-  var output = "";
-  
-  // Divide
-  check(3, "Fizz");
-  check(5, "Buzz");
-  
-  // Check if output is empty
-  if (output === "") { output = i; }
-  
-  // Print the output
-  console.log(output);
+// We iterate over 100 numbers
+for (let i = 1; i <= 100; i++) {
+  if (i % 3 == 0 && i % 5 == 0) { output.push('FizzBuzz'); continue; };
+  if (i % 3 == 0) { output.push('Fizz'); continue; };
+  if (i % 5 == 0) { output.push('Buzz'); continue; };
+  output.push(i);
 }
 
-function check(number, word) {
-  if (i % number === 0) { output += word; }
-}
+// We log the array
+console.log(output);

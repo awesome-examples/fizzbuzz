@@ -13,6 +13,7 @@ Current implementations:
 - Haskell
 - Java
   - Java (Arrays)
+  - Java (Newline Manipulation)
 - JavaScript
   - JavaScript (Arrays)
   - JavaScript (Function)

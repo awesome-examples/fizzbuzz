@@ -1,23 +1,28 @@
-#include <iostream>
-
+// CPP program to print Fizz Buzz 
+#include <bits/stdc++.h> 
 using namespace std;
-
-int main(int argc, char **argv) {
-    const int start = 0; //inclusive
-    const int end = 100; //exclusive
-
-    for (int current = start; current < end; current++) {
-        cout << current << ": ";
-
-        if (current % 3 == 0) {
-            cout << "Fizz";
-        }
-        if (current % 5 == 0) {
-            cout << "Buzz";
-        }
-
-        cout << endl;
-    }
-
-    return 0;
-}
+int main() 
+{ 
+    int i; 
+    for (i=1; i<=100; i++) 
+    { 
+        // number divisible by 3 and 5 will always be divisible by 15, print 'FizzBuzz' in place of the number 
+        if (i%15 == 0)         
+            cout<<"FizzBuzz\t";     
+          
+        // number divisible by 3 print 'Fizz' in place of the number 
+        
+        else if ((i%3) == 0)     
+            cout<<"Fizz\t";                  
+          
+        // number divisible by 5, print 'Buzz' in place of the number 
+        else if ((i%5) == 0)                        
+            cout<<"Buzz\t";                  
+      
+        else // print the number             
+            cout<<i<<"\t";                  
+  
+    } 
+  
+    return 0; 
+} 

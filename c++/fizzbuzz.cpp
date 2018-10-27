@@ -1,5 +1,6 @@
 // CPP program to print Fizz Buzz 
 #include <bits/stdc++.h> 
+
 using namespace std;
 int main() 
 { 
@@ -11,7 +12,6 @@ int main()
             cout<<"FizzBuzz\t";     
           
         // number divisible by 3 print 'Fizz' in place of the number 
-        
         else if ((i%3) == 0)     
             cout<<"Fizz\t";                  
           

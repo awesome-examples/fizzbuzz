@@ -1,5 +1,6 @@
 <?php
-
+// To run, call the function
+// fizzbuzzer(value)
 function fizzbuzzer( $value ) {
   $res = '';
   if( $value % 3 === 0) {
@@ -15,3 +16,4 @@ function fizzbuzzer( $value ) {
 }
 
 fizzbuzzer(2);
+?>

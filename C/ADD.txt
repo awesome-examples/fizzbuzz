@@ -1,0 +1,15 @@
+ 
+<stdio.h>
+
+ int a ;
+ int b ;
+ int c ;
+
+printf("Enter your first number :");
+printf("Enter your second number :");
+
+scanf("%d",&a);
+Scanf("%d",&b);
+
+printf("Your answer is :%d",c);
+

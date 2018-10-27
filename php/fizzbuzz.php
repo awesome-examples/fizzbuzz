@@ -15,5 +15,7 @@ function fizzbuzzer( $value ) {
   echo $res;
 }
 
+// Tip: You can insert a loop into the function
+// e.g. for($i =1; $i <=100; $i++) { fizzbuzzer($i); }
 fizzbuzzer(2);
 ?>

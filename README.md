@@ -15,6 +15,7 @@ Current implementations:
 - JavaScript
   - JavaScript (Arrays)
   - JavaScript (Function)
+- Lua
 - MatLab
 - PHP
 - Python

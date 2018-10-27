@@ -11,6 +11,7 @@ Current implementations:
 - C++
 - C
 - Go
+- Groovy
 - Haskell
 - Java
   - Java (Arrays)

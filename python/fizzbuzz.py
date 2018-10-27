@@ -30,4 +30,7 @@ while i <= 100:
         print ("Buzz")
     else:
       print (i)
+    # increase number by one after checking conditionals
     i += 1
+
+

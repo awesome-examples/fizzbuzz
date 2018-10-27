@@ -10,6 +10,7 @@ Current implementations:
 - Bash (.sh)
 - C++
 - C
+- Go
 - Haskell
 - Java
   - Java (Arrays)

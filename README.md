@@ -1,5 +1,8 @@
 # fizzbuzz
 
+![GitHub language count](https://img.shields.io/github/languages/count/awesome-examples/fizzbuzz.svg)
+![GitHub contributors](https://img.shields.io/github/contributors/awesome-examples/fizzbuzz.svg)
+
 Implementations of FizzBuzz in various programming languages.
 
 Using Hacktoberfest to help people get into open source.

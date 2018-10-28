@@ -8,6 +8,8 @@ func fizzbuzz(until endValue:Int) {
             } else {
                 if i % 5 == 0 {
                     print("buzz")
+                } else {
+                    print(i)
                 }
             }
         }

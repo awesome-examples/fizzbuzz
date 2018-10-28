@@ -8,6 +8,7 @@ Current implementations:
 
 - C#
 - Bash (.sh)
+- Batch (.bat)
 - C++
 - C
 - Go

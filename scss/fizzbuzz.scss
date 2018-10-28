@@ -2,6 +2,8 @@
 // this SCSS file will loop through all the divs and add the
 // proper `fizz` `buzz` `fizzbuzz` or number.
 // 100 can be changed to allow for more, or less, entries.
+//
+// example: https://jsfiddle.net/5tb0dxmg/
 @for $i from 1 through 100 {
   div:nth-of-type( #{$i} ):before {
     $content: "";

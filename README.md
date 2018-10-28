@@ -23,6 +23,7 @@ Current implementations:
   - Java (Newline Manipulation)
 - JavaScript
   - JavaScript (Arrays)
+  - JavaScript (Array, Map and If Statements)
   - JavaScript (Function)
   - JavaScript (Switch Statements)
   - JavaScript (If Statements, HTML Document Write)

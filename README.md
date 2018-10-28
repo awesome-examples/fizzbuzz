@@ -25,7 +25,7 @@ Current implementations:
   - JavaScript (Arrays)
   - JavaScript (Function)
   - JavaScript (Switch Statements)
-  - JavaScript (If Statements, Document Write)
+  - JavaScript (If Statements, HTML Document Write)
 - Kotlin
 - Lua
 - MatLab

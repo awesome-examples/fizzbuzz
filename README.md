@@ -26,6 +26,7 @@ Current implementations:
   - JavaScript (Function)
   - JavaScript (Switch Statements)
   - JavaScript (If Statements, HTML Document Write)
+- Julia
 - Kotlin
 - Lua
 - MatLab

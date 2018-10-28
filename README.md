@@ -25,6 +25,7 @@ Current implementations:
   - JavaScript (Arrays)
   - JavaScript (Function)
   - JavaScript (Switch Statements)
+  - JavaScript (If Statements, HTML Document Write)
   - JavaScript (Ternary Operator & Elements)
 - Kotlin
 - Lua

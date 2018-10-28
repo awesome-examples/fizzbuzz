@@ -31,6 +31,7 @@ Current implementations:
 - Kotlin
 - Lua
 - MatLab
+- Nim
 - PHP
 - Python
 - R

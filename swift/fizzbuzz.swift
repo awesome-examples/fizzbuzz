@@ -1,5 +1,5 @@
 func fizzbuzz(until endValue:Int) {
-    for i in 0...endValue {
+    for i in 1...endValue {
         if i % 3 == 0 && i % 5 == 0 {
             print("fizzbuzz")
         } else {

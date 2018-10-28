@@ -18,6 +18,7 @@ Current implementations:
 - JavaScript
   - JavaScript (Arrays)
   - JavaScript (Function)
+  - JavaScript (Switch Statements)
 - Kotlin
 - Lua
 - MatLab

@@ -6,9 +6,9 @@ Using Hacktoberfest to help people get into open source.
 
 Current implementations:
 
-- C#
 - Bash (.sh)
 - Batch (.bat)
+- C#
 - C++
 - C
 - Go

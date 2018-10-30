@@ -11,6 +11,7 @@ Current implementations:
 
 - Bash (.sh)
 - Batch (.bat)
+- BrainF*ck
 - C#
 - C++
 - C

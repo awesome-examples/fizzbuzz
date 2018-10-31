@@ -11,6 +11,7 @@ Current implementations:
 
 - Bash (.sh)
 - Batch (.bat)
+- BrainF*ck
 - C#
 - C++
 - C
@@ -24,6 +25,7 @@ Current implementations:
 - JavaScript
   - JavaScript (Arrays)
   - JavaScript (Array, Map and If Statements)
+  - JavaScript (Function - Single number Check)
   - JavaScript (Function)
   - JavaScript (Switch Statements)
   - JavaScript (If Statements, HTML Document Write)
@@ -39,3 +41,5 @@ Current implementations:
 - R
 - Ruby
 - Scala
+- SCSS
+- Swift

@@ -38,14 +38,14 @@ view model =
 
 fizzbuzz : Int -> String
 fizzbuzz x =
-    if modBy 3 x == 0 then
-        "Fizz"
+    if modBy 3 x == 0 && modBy 5 x == 0 then
+        "FizzBuzz"
 
     else if modBy 5 x == 0 then
         "Buzz"
 
-    else if modBy 3 x == 0 && modBy 5 x == 0 then
-        "FizzBuzz"
+    else if modBy 3 x == 0 then
+        "Fizz"
 
     else
         String.fromInt x

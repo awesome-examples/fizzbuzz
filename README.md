@@ -16,6 +16,7 @@ Current implementations:
 - C++
 - C
 - Clojure
+- Elm
 - Go
 - Groovy
 - Haskell

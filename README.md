@@ -39,3 +39,4 @@ Current implementations:
 - R
 - Ruby
 - Scala
+- Swift

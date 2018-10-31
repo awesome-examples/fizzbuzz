@@ -24,6 +24,7 @@ Current implementations:
   - Java (Newline Manipulation)
 - JavaScript
   - JavaScript (Arrays)
+  - JavaScript (Function - Single number Check)
   - JavaScript (Function)
   - JavaScript (Switch Statements)
   - JavaScript (If Statements, HTML Document Write)

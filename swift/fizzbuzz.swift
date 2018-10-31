@@ -1,13 +1,13 @@
 func fizzbuzz(until endValue:Int) {
     for i in 1...endValue {
         if i % 3 == 0 && i % 5 == 0 {
-            print("fizzbuzz")
+            print("FizzBuzz")
         } else {
             if i % 3 == 0 {
-                print("fizz")
+                print("Fizz")
             } else {
                 if i % 5 == 0 {
-                    print("buzz")
+                    print("Buzz")
                 } else {
                     print(i)
                 }

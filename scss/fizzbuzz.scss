@@ -1,0 +1,26 @@
+// to set up, make an `html` file with up to 100 empty divs
+// this SCSS file will loop through all the divs and add the
+// proper `fizz` `buzz` `fizzbuzz` or number.
+// 100 can be changed to allow for more, or less, entries.
+//
+// example: https://jsfiddle.net/5tb0dxmg/
+@for $i from 1 through 100 {
+  div:nth-of-type( #{$i} ):before {
+    $content: "";
+    @if $i % 3 == 0 {
+      $content: $content + "Fizz";
+    }
+
+    @if $i % 5 == 0 {
+      $content: $content + "Buzz";
+    }
+
+    @if $content != "" {
+      content: $content;
+    }
+    @else {
+      content: "#{$i}";
+    }
+  }
+}
+

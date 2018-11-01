@@ -11,10 +11,12 @@ Current implementations:
 
 - Bash (.sh)
 - Batch (.bat)
+- BrainF*ck
 - C#
 - C++
 - C
 - Clojure
+- Elm
 - Go
 - Groovy
 - Haskell
@@ -23,10 +25,13 @@ Current implementations:
   - Java (Newline Manipulation)
 - JavaScript
   - JavaScript (Arrays)
+  - JavaScript (Array, Map and If Statements)
+  - JavaScript (Function - Single number Check)
   - JavaScript (Function)
   - JavaScript (Switch Statements)
   - JavaScript (If Statements, HTML Document Write)
   - JavaScript (Ternary Operator & Elements)
+  - JavaScript (Lambdas)
 - Julia
 - Kotlin
 - Lua
@@ -37,5 +42,8 @@ Current implementations:
 - Python
 - R
 - Ruby
+  - Ruby (Lambdas)
 - Rust
 - Scala
+- SCSS
+- Swift

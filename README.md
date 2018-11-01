@@ -43,6 +43,7 @@ Current implementations:
 - R
 - Ruby
   - Ruby (Lambdas)
+- Rust
 - Scala
 - SCSS
 - Swift

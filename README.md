@@ -31,6 +31,7 @@ Current implementations:
   - JavaScript (Switch Statements)
   - JavaScript (If Statements, HTML Document Write)
   - JavaScript (Ternary Operator & Elements)
+  - JavaScript (Lambdas)
 - Julia
 - Kotlin
 - Lua
@@ -41,6 +42,7 @@ Current implementations:
 - Python
 - R
 - Ruby
+  - Ruby (Lambdas)
 - Scala
 - SCSS
 - Swift

@@ -37,4 +37,5 @@ Current implementations:
 - Python
 - R
 - Ruby
+- Rust
 - Scala

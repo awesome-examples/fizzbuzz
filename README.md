@@ -39,6 +39,7 @@ Current implementations:
 - MatLab
 - MIPS Assembly
 - Nim
+- Perl
 - PHP
 - Python
 - R
